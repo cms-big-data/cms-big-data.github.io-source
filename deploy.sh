@@ -3,10 +3,10 @@
 set +x
 
 BRANCH=master
-TARGET_REPO=codas-hep/codas-hep.github.io.git
+TARGET_REPO=cms-big-data/cms-big-data.github.io.git
 PELICAN_OUTPUT_FOLDER=output
 
-echo -e "Testing travis-encrypt"
+echo -e "Deploy cms-big-data webpage"
 echo -e "$VARNAME"
 
 if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
