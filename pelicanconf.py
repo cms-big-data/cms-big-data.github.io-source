@@ -19,10 +19,15 @@ TRANSLATION_FEED_ATOM = None
 
 DISPLAY_PAGES_ON_MENU =False
 MENUITEMS = (
+			('Publications and Talks','/pages/pubsntalks.html'),
 			('The Team','/pages/theteam.html'),
 			)
 
-LINKS =  ( ('The Team','/pages/theteam.html'),
+LINKS =  (
+('Full Analysis in Apache Spark','/pages/fullanalysis.html'),
+('CERN openlab/Intel CMS Big Data Reduction
+Facility','/pages/datareduction.html'),
+('Big Data analytics at HPC centers','/pages/hpc.html'),
 	  )
 
 
@@ -36,7 +41,7 @@ CC_LICENSE="CC-BY"
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True 
+#RELATIVE_URLS = True
 RELATIVE_URLS = False
 
 DISPLAY_TAGS_ON_SIDEBAR=False

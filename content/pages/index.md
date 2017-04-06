@@ -13,10 +13,16 @@ In recent times, new open source toolkits and systems collectively called “Big
 
 The CMS Big Data Project explores these new open source data analytics toolkits and has the following goals
 
-    * Reduce time-to-physics
-    * Educate our graduate students and  post docs to use industry-based technologies
-        * Improves chances on the job market outside  academia
-        * Increases the attractiveness of our field
-    * Use tools developed in larger communities reaching outside of our field
+* Reduce time-to-physics
+* Educate our graduate students and  post docs to use industry-based technologies
+    * Improves chances on the job market outside  academia
+    * Increases the attractiveness of our field
+* Use tools developed in larger communities reaching outside of our field
 
-The starting point is [Apache Spark](http://spark.apache.org).
+The starting point is [Apache Spark](http://spark.apache.org) and we are working on the following thrusts
+
+* [Full Analysis in Apache Spark](/pages/fullanalysis.html)
+* [CERN openlab/Intel CMS Big Data Reduction Facility](/pages/datareduction.html)
+* [Big Data analytics at HPC centers](/pages/hpc.html)
+
+All thrusts are based on reproducing a CMS physics analysis with open source data analytics frameworks in various settings, based on Apache Spark.

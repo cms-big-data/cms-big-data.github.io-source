@@ -32,7 +32,7 @@ Template: page
 
 * Ian Fisk
 
-#### [University of Iowa\(https://uiowa.edu)
+#### [University of Iowa](https://uiowa.edu)
 
 * Viktor Khristenko
 
