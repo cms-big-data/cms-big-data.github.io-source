@@ -19,10 +19,10 @@ TRANSLATION_FEED_ATOM = None
 
 DISPLAY_PAGES_ON_MENU =False
 MENUITEMS = (
-			('About','/pages/about.html'),
+			('The Team','/pages/theteam.html'),
 			)
 
-LINKS =  ( ('School Timetable','https://indico.cern.ch/event/625333/timetable/'),
+LINKS =  ( ('The Team','/pages/theteam.html'),
 	  )
 
 
