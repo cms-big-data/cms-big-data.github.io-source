@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'CMS Big Data'
-SITENAME = 'CMS Big Data'
+SITENAME = 'CMS Big Data Project'
 SITEURL = ''
 
 TIMEZONE = 'Europe/Paris'
@@ -36,7 +36,7 @@ CC_LICENSE="CC-BY"
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True   
+#RELATIVE_URLS = True 
 RELATIVE_URLS = False
 
 DISPLAY_TAGS_ON_SIDEBAR=False
@@ -62,7 +62,7 @@ BOOTSTRAP_NAVBAR_INVERSE =True
 BANNER="images/ipcc-root-banner-faded2-crop.png"
 BANNER_TITLE=None
 #BANNER_SUBTITLE = None
-BANNER_SUBTITLE="Bigger Data for you and your friends"
+BANNER_SUBTITLE=""
 BANNER_ALL_PAGES = False
 
 #custom CSS
@@ -71,7 +71,7 @@ CUSTOM_CSS = 'static/custom.css'
 #DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives', 'search')
 DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives')
 
-STATIC_PATHS = ['images','css', 'downloads', 
+STATIC_PATHS = ['images','css', 'downloads',
                 'downloads/files','downloads/code', 'favicon.png']
 
 # Tell Pelican to change the path to 'static/custom.css' in the output dir
@@ -86,7 +86,7 @@ FAVICON= "images/favicon.ico"
 PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['summary', 'i18n_subsites', 'liquid_tags.img', 'liquid_tags.video',
                         'liquid_tags.youtube', 'render_math',
-           'liquid_tags.include_code', 
+           'liquid_tags.include_code',
            'liquid_tags.literal', 'tipue_search']
 JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
@@ -101,7 +101,7 @@ JINJA_ENVIRONMENT = {
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES * * */
     var disqus_shortname = 'cms-big-data';
-    
+
     /* * * DON'T EDIT BELOW THIS LINE * * */
     (function() {
         var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
