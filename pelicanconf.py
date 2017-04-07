@@ -20,6 +20,7 @@ TRANSLATION_FEED_ATOM = None
 DISPLAY_PAGES_ON_MENU =False
 MENUITEMS = (
 			('Publications and Talks','/pages/pubsntalks.html'),
+			('Contact and Communication','/pages/contact.html'),
 			('The Team','/pages/theteam.html'),
 			)
 
