@@ -7,12 +7,12 @@ Template: page
 
 ### Contact
 
-[mailto:oguatworld@gmail.com](Oliver Gutsche)
+[Oliver Gutsche](mailto:oguatworld@gmail.com)
 
 ### Communication
 
 The project communicates through:
 
-* Google Group: cms-big-data-project@googlegroups.com [https://groups.google.com/forum/#!forum/cms-big-data-project]((link to subscribe))
-* Slack: As for an invite to our Slack team [https://cmsbigdataproject.slack.com/signup](cmsbigdataproject) or contact [mailto:oguatworld@gmail.com](Oliver Gutsche)
+* Google Group: cms-big-data-project@googlegroups.com [(link to subscribe)](https://groups.google.com/forum/#!forum/cms-big-data-project)
+* Slack: As for an invite to our Slack team [cmsbigdataproject](https://cmsbigdataproject.slack.com/signup) or contact [Oliver Gutsche](mailto:oguatworld@gmail.com) 
 
