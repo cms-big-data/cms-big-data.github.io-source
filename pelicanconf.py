@@ -62,9 +62,7 @@ BOOTSTRAP_THEME='cerulean'
 DISPLAY_BREADCRUMBS=False
 
 BOOTSTRAP_NAVBAR_INVERSE =True
-#BANNER="images/ipcc-root-banner.png"
-#BANNER="images/ipcc-root-banner-faded.png"
-BANNER="images/ipcc-root-banner-faded2-crop.png"
+BANNER="images/banner.png"
 BANNER_TITLE=None
 #BANNER_SUBTITLE = None
 BANNER_SUBTITLE=""
@@ -86,7 +84,7 @@ EXTRA_PATH_METADATA = {
 
 CODE_DIR = 'downloads/code'
 #NOTEBOOK_DIR = 'downloads/notebooks'
-FAVICON= "images/favicon.ico"
+# FAVICON= "images/favicon.ico"
 
 PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['summary', 'i18n_subsites', 'liquid_tags.img', 'liquid_tags.video',
