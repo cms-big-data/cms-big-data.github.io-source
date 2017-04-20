@@ -18,4 +18,4 @@ The project communicates through:
 
 ### Meetings
 
-The projects tries to meet bi-weekly. The meetings are announced on the Google group and in slack and Exchange invites are sent out. The meetings have an indico agenda in [this indico category)[https://indico.cern.ch/category/5824/]. Meetings notes are published after the meeting
+The projects tries to meet bi-weekly. The meetings are announced on the Google group and in slack and Exchange invites are sent out. The meetings have an indico agenda in [this indico category](https://indico.cern.ch/category/5824/). Meetings notes are published after the meeting
