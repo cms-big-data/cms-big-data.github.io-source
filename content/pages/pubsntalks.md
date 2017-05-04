@@ -33,5 +33,8 @@ Template: page
 * "Status of CMS Big Data Project"
     * R&D meeting of CMS Spring Offline and Computing Week 2017
     * April 04, 2017
-    * [Slides](https://indico.cern.ch/event/627874/contributions/2535877/attachments/1439405/2215231/170404_-_Status_of_CMS_Big_Data_Project.pdf)
-
+    * [Slides (password protected)](https://indico.cern.ch/event/627874/contributions/2535877/attachments/1439405/2215231/170404_-_Status_of_CMS_Big_Data_Project.pdf)
+* "Data Analytics in Physics Data Reduction"
+    * CERN openlab workshop on Machine Learning and Data Analytics
+    * April 27, 2017
+    * [Slides](https://indico.cern.ch/event/627852/contributions/2548016/attachments/1450704/2236815/170427_-_Data_Analytics_-_Physics_Data_Reduction.pdf)
