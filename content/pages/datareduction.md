@@ -7,3 +7,4 @@ Template: page
 
 ### CERN openlab/Intel CMS Data Reduction Facility
 
+* [Performance Metrics](/pages/metrics.html)
