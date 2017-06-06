@@ -28,6 +28,7 @@ LINKS =  (
 ('Full Analysis in Apache Spark','/pages/fullanalysis.html'),
 ('CERN openlab/Intel CMS Big Data Reduction Facility','/pages/datareduction.html'),
 ('Big Data analytics at HPC centers','/pages/hpc.html'),
+('Metrics','/pages/metrics.html'),
 	  )
 
 
