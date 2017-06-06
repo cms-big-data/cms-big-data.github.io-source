@@ -25,4 +25,6 @@ The starting point is [Apache Spark](http://spark.apache.org) and we are working
 * [CERN openlab/Intel CMS Big Data Reduction Facility](/pages/datareduction.html)
 * [Big Data analytics at HPC centers](/pages/hpc.html)
 
-All thrusts are based on reproducing a CMS physics analysis with open source data analytics frameworks in various settings, based on Apache Spark.
+All thrusts are based on reproducing a CMS physics analysis with open source data analytics frameworks in various settings, based on Apache Spark. We are planning to use the following list of metrics to characterize the performance of the solutions:
+
+* [Performance Metrics](/pages/metrics.html)

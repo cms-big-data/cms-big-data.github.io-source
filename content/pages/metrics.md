@@ -1,11 +1,9 @@
-Title: Performance Metrics Documentation 
+Title: Performance Metrics
 date: 2017-03-21 07:51
 slug: metrics.html
 Authors: Oliver Gutsche
 Summary: Documentation of Performance Metrics for the CMS Big Data Project
 Template: page
-
-# Performance Metrics
 
 ## Application metrics
 
@@ -22,4 +20,4 @@ Template: page
     * CPU time of all executors
     * time spent on garbage in garbage collection, time in serialization
     * from HDFS you get rows and data read from HDFS
- * measure network traffic, important for reading from EOS
+* measure network traffic, important for reading from EOS
