@@ -7,6 +7,10 @@ Template: page
 
 ### Publications
 
+* "CMS Analysis and Data Reduction with Apache Spark"
+    * Proceedings for 18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)
+    * submitted for review
+    * [arXiv:1711.00375](https://arxiv.org/abs/1711.00375)
 * "Big Data in HEP: A comprehensive use case study"
     * Proceedings for 22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)
     * accepted for publication
