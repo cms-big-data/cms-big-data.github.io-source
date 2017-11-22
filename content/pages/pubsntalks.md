@@ -13,7 +13,7 @@ Template: page
     * [arXiv:1711.00375](https://arxiv.org/abs/1711.00375)
 * "Big Data in HEP: A comprehensive use case study"
     * Proceedings for 22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)
-    * accepted for publication
+    * Published in Journal of Physics: Conference Series, Volume 898, Track 5: Software Development [DOI:10.1088/1742-6596/898/7/072012](https://doi.org/10.1088/1742-6596/898/7/072012)
     * [arXiv:1703.04171](https://arxiv.org/abs/1703.04171)
 
 ### Talks
