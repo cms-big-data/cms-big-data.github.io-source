@@ -28,3 +28,7 @@ The starting point is [Apache Spark](http://spark.apache.org) and we are working
 All thrusts are based on reproducing a CMS physics analysis with open source data analytics frameworks in various settings, based on Apache Spark. We are planning to use the following list of metrics to characterize the performance of the solutions:
 
 * [Performance Metrics](/pages/metrics.html)
+
+A collection of GitHub repositories can be found here:
+
+* [GitHub repositories](/pages/repositories.html)
