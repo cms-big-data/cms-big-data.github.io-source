@@ -18,6 +18,16 @@ Template: page
 
 ### Talks
 
+* "CMS Data Analysis with Apache Spark"
+    * Presenter: Viktor Khristenko
+    * CERN Openlab Technical Workshop
+    * January 12, 2018
+    * [Slides](https://indico.cern.ch/event/669648/contributions/2802522/attachments/1581800/2499849/cernopenlab_technical_workshop_12012018.pdf)
+* "HEP Data Processing with Apache Spark"
+    * Presenter: Viktor Khristenko
+    * CERN Hadoop User Forum
+    * December 6, 2017
+    * [Slides](https://indico.cern.ch/event/678628/)
 * "CMS Analysis and Data Reduction with Apache Spark"
     * Presenter: Oliver Gutsche
     * 18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2016)
