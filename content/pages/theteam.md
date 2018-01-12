@@ -27,12 +27,9 @@ Template: page
 * Luca Canali
 * Kacper Surdy
 * Vaggelis Motesnitsalis
+* Viktor Khristenko
 
 #### [Simons Foundation](https://www.simonsfoundation.org)
 
 * Ian Fisk
-
-#### [University of Iowa](https://uiowa.edu)
-
-* Viktor Khristenko
 
