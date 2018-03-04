@@ -30,7 +30,7 @@ Template: page
     * [Slides](https://indico.cern.ch/event/678628/)
 * "CMS Analysis and Data Reduction with Apache Spark"
     * Presenter: Oliver Gutsche
-    * 18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2016)
+    * 18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)
     * August 22, 2017
     * [Slides](https://indico.cern.ch/event/567550/contributions/2629602/attachments/1511348/2357033/170822_-_ACAT2017_-_Gutsche_-_CMS_Analysis_and_Data_Reduction_with_Apache_Spark.pdf)
 * "Status and Plans of the CMS Big Data Project"
