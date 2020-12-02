@@ -22,11 +22,11 @@ Template: page
     * [arXiv:1711.00375 \[cs.DC\]](http://arxiv.org/abs/1711.00375)
 
 * "Big Data in HEP: A comprehensive use case study"
-  * O. Gutsche et al.
-  * Proceedings for 22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)
-  * *J. Phys. Conf. Ser.* 898 (2017) 072012
-  * [doi:10.1088/1742-6596/898/7/072012](https://doi.org/10.1088/1742-6596/898/7/072012)
-  * [arXiv:1703.04171 \[cs.DC\]](http://arxiv.org/abs/1703.04171)
+    * O. Gutsche et al.
+    * Proceedings for 22nd International Conference on Computing in High Energy and Nuclear Physics (CHEP 2016)
+    * *J. Phys. Conf. Ser.* 898 (2017) 072012
+    * [doi:10.1088/1742-6596/898/7/072012](https://doi.org/10.1088/1742-6596/898/7/072012)
+    * [arXiv:1703.04171 \[cs.DC\]](http://arxiv.org/abs/1703.04171)
 
 ### Talks
 
